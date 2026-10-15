@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.robloxusercool.twa",
+    "sha256_cert_fingerprints": ["FC:D7:1E:C2:08:28:6A:8F:5C:24:DC:F2:08:B2:6D:9E:5A:41:41:AF:DD:F5:60:90:3E:AD:66:17:38:A5:6B:83"]
+  }
+}]
